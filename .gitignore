@@ -44,3 +44,6 @@ app.*.map.json
 
 # Local tool settings
 .claude/
+
+# Internal handoff docs - do NOT publish (repo is public)
+HANDOFF/
