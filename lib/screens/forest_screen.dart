@@ -114,7 +114,8 @@ class ForestScreen extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset('assets/images/cor_logo.jpg', height: 38),
+              Image.asset('assets/images/cor_logo_transparent.png',
+                  height: 38),
               const SizedBox(width: 12),
               const Text(
                 'Powered by Grove',

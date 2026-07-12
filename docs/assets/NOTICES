@@ -10379,6 +10379,39 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 --------------------------------------------------------------------------------
+grove
+
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Rockford Consulting and Brokerage, Inc. All rights reserved.
+
+This software and its associated source code, documentation, designs,
+visualizations, algorithms, and assets (collectively, the "Software")
+are the proprietary and confidential property of the copyright holder.
+
+NO LICENSE IS GRANTED. The Software is made publicly visible solely for
+demonstration and evaluation purposes in connection with the copyright
+holder's business activities. Public visibility of this repository does
+NOT constitute open source and does NOT grant any right to use, copy,
+modify, merge, publish, distribute, sublicense, sell, or create
+derivative works of the Software, in whole or in part, for any purpose.
+
+Any unauthorized use, reproduction, modification, distribution, or
+disclosure of the Software is strictly prohibited and may result in
+civil and criminal penalties.
+
+Exception: viewing the Software and running the publicly hosted
+demonstration at its published URL for evaluation purposes is permitted.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For licensing inquiries, contact the copyright holder.
+
+--------------------------------------------------------------------------------
 gtest-parallel
 
 Copyright 2013 Google Inc. All rights reserved.

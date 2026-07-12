@@ -38,7 +38,8 @@ class CityDashboardScreen extends StatelessWidget {
             children: [
               // ---- City of Rockford header ----
               Center(
-                child: Image.asset('assets/images/cor_logo.jpg', height: 64),
+                child: Image.asset('assets/images/cor_logo_transparent.png',
+                    height: 64),
               ),
               const SizedBox(height: 10),
               Center(

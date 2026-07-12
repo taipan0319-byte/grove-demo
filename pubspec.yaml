@@ -24,3 +24,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/cor_logo.jpg
+    - assets/images/cor_logo_transparent.png

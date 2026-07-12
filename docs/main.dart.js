@@ -90953,7 +90953,7 @@ A.a0w.prototype={
 $1(a){return a.hu()},
 $S:560}
 A.JX.prototype={
-F(a){var s,r,q,p,o,n=null,m=A.fr(a,!0,t.d).guE(),l=A.fJ(A.a73("assets/images/cor_logo.jpg",64),n,n),k=A.fJ(A.a8("Rockford Health Dashboard",n,n,n,n,A.cB(B.p,n,n,24),B.bt,n),n,n),j=t.p,i=A.bI(A.b([B.Ir,B.cs,A.bT(new A.rR("$127K","est. annual claims savings\nat current engagement",B.Jf,n,n),1)],j),B.q,B.l,B.m,0),h=t.pn
+F(a){var s,r,q,p,o,n=null,m=A.fr(a,!0,t.d).guE(),l=A.fJ(A.a73("assets/images/cor_logo_transparent.png",64),n,n),k=A.fJ(A.a8("Rockford Health Dashboard",n,n,n,n,A.cB(B.p,n,n,24),B.bt,n),n,n),j=t.p,i=A.bI(A.b([B.Ir,B.cs,A.bT(new A.rR("$127K","est. annual claims savings\nat current engagement",B.Jf,n,n),1)],j),B.q,B.l,B.m,0),h=t.pn
 h=A.Y(new A.a0(B.MZ,new A.a1M(),h),h.i("au.E"))
 h=A.da(A.bs(A.b([B.UY,B.bX,A.bI(h,B.q,B.l,B.m,0),B.bM,B.a0q],j),B.q,B.l,B.m),B.a5,n,n,B.aX)
 s=A.b([],j)
@@ -91034,7 +91034,7 @@ g=i.a===a3
 f=g?B.aG:B.bz
 g=g?B.X:B.p
 k.push(new A.ds(1,B.bp,A.bs(A.b([new A.ds(1,B.bp,new A.Qh(h/100,5+j*31,a1),a1),B.bM,A.a8(i.b,1,B.ay,a1,a1,new A.j(!0,g,a1,a1,a1,a1,10,f,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1),A.a8(""+B.c.aC(h),a1,a1,a1,a1,B.eH,a1,a1)],l),B.q,B.l,B.m),a1))}a3=A.da(A.bs(A.b([A.cY(A.bI(k,B.cg,B.l,B.m,0),180,a1),A.dr(a1,a1,B.w,a1,new A.c6(a1,a1,a1,A.cq(3),a1,B.KW,B.af),a1,5,B.HZ,a1,a1,a1,a1)],l),B.q,B.l,B.m),B.a5,B.KX,a1,B.Id)
-k=A.bI(A.b([A.a73("assets/images/cor_logo.jpg",38),B.cs,B.a0x],l),B.q,B.fO,B.m,0)
+k=A.bI(A.b([A.a73("assets/images/cor_logo_transparent.png",38),B.cs,B.a0x],l),B.q,B.fO,B.m,0)
 i=A.da(A.bI(A.b([A.a8(""+B.c.aC(r),a1,a1,a1,a1,A.cB(B.p,1,a1,44),a1,a1),B.cs,A.bT(A.bs(A.b([B.a_X,A.a8(B.cI[A.rj(r)].a,a1,a1,a1,a1,B.bY,a1,a1)],l),B.a3,B.l,B.m),1),B.JG],l),B.q,B.l,B.m,0),B.a5,a1,a1,B.aX)
 h=A.b([],l)
 for(j=0;j<q.length;j=a0){g=q[j]
@@ -91061,7 +91061,7 @@ o=B.d.hV(a0.a)
 n=A.b([new A.hY(B.b.ga5(o.split(" ")),s,a.gh0())],t.Mt)
 B.b.P(n,B.q0)
 B.b.ex(n,new A.a6B())
-m=A.Bw(b,A.hl(A.Ng(A.a73("assets/images/cor_logo.jpg",30),0.4),!0,b),b,b,b,20,6,b)
+m=A.Bw(b,A.hl(A.Ng(A.a73("assets/images/cor_logo_transparent.png",30),0.4),!0,b),b,b,b,20,6,b)
 a0=a0.b
 l=A.a8(a0+" Grove",b,b,b,b,A.cB(B.p,b,b,22),b,b)
 k=A.a8(""+n.length+" members growing together",b,b,b,b,B.cR,b,b)
@@ -91486,7 +91486,7 @@ k.d.zd(2,B.hT,B.hY)},
 F(a){var s=this
 return A.ayu(null,A.v6(!0,A.aDu(A.b([s.akS(),s.a9x(),s.agQ()],t.p),B.J,s.d,B.a9,B.PY),B.aa,!0),null)},
 akS(){var s=null
-return new A.b5(B.p3,A.bs(A.b([B.eE,B.a0h,B.dL,A.a73("assets/images/cor_logo.jpg",54),B.mz,B.UZ,B.aY,A.a8("GROVE",s,s,s,s,A.cB(B.p,s,10,42),s,s),B.eC,B.a0d,B.c9,B.IM,B.eE,A.cY(A.kL(B.a0n,new A.apW(this),A.jz(s,s,s,s,s,s,s,s,s,s,s,s,B.hZ,s,s,s,s,s,s,s)),s,1/0)],t.p),B.q,B.l,B.m),s)},
+return new A.b5(B.p3,A.bs(A.b([B.eE,B.a0h,B.dL,A.a73("assets/images/cor_logo_transparent.png",54),B.mz,B.UZ,B.aY,A.a8("GROVE",s,s,s,s,A.cB(B.p,s,10,42),s,s),B.eC,B.a0d,B.c9,B.IM,B.eE,A.cY(A.kL(B.a0n,new A.apW(this),A.jz(s,s,s,s,s,s,s,s,s,s,s,s,B.hZ,s,s,s,s,s,s,s)),s,1/0)],t.p),B.q,B.l,B.m),s)},
 a9x(){var s,r,q,p,o,n,m=this,l=null,k=new A.apT(),j=A.a8("Plant your tree",l,l,l,l,A.cB(B.p,l,l,28),l,l),i=A.r4(m.e,k.$1("Full name"),l,l),h=m.as,g=k.$1("Department"),f=t.fo
 f=A.Y(new A.a0(B.q5,new A.apQ(),f),f.i("au.E"))
 h=A.aMq(g,h,f,new A.apR(m),t.N)

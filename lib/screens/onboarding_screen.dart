@@ -118,7 +118,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 letterSpacing: 1.5),
           ),
           const SizedBox(height: 8),
-          Image.asset('assets/images/cor_logo.jpg', height: 54),
+          Image.asset('assets/images/cor_logo_transparent.png', height: 54),
           const SizedBox(height: 20),
           const SizedBox(
               height: 150, width: 150, child: OakTreeView(growth: 0.9, sway: true)),

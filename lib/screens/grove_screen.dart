@@ -39,7 +39,8 @@ class GroveScreen extends StatelessWidget {
           child: IgnorePointer(
             child: Opacity(
               opacity: 0.4,
-              child: Image.asset('assets/images/cor_logo.jpg', height: 30),
+              child: Image.asset('assets/images/cor_logo_transparent.png',
+                  height: 30),
             ),
           ),
         ),
