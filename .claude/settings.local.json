@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(curl.exe -sL -o \"C:\\\\Users\\\\Ryan\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\R---Unfiled-GROVE--health-app-working-title--Grove-Clude-Flutter-Code\\\\62054073-ba81-4109-8e38-189af38d978f\\\\scratchpad\\\\flutter_sdk.zip\" \"https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.44.4-stable.zip\"; \"Exit: $LASTEXITCODE\"; \\(Get-Item \"C:\\\\Users\\\\Ryan\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\R---Unfiled-GROVE--health-app-working-title--Grove-Clude-Flutter-Code\\\\62054073-ba81-4109-8e38-189af38d978f\\\\scratchpad\\\\flutter_sdk.zip\"\\).Length / 1MB)",
+      "PowerShell(tar.exe -xf \"C:\\\\Users\\\\Ryan\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\R---Unfiled-GROVE--health-app-working-title--Grove-Clude-Flutter-Code\\\\62054073-ba81-4109-8e38-189af38d978f\\\\scratchpad\\\\flutter_sdk.zip\" -C C:\\\\dev; \"Exit: $LASTEXITCODE\"; Test-Path C:\\\\dev\\\\flutter\\\\bin\\\\flutter.bat)",
+      "PowerShell($env:Path += ';C:\\\\dev\\\\flutter\\\\bin'; flutter --version)",
+      "PowerShell($env:Path += ';C:\\\\dev\\\\flutter\\\\bin'; flutter doctor)",
+      "PowerShell($env:Path += ';C:\\\\dev\\\\flutter\\\\bin'; Set-Location \"R:\\\\~Unfiled\\\\GROVE \\(health app working title\\)\\\\Grove Clude Flutter Code\"; flutter create . --project-name grove --org com.grove; if \\($?\\) { flutter pub get })",
+      "PowerShell($env:Path += ';C:\\\\dev\\\\flutter\\\\bin'; Set-Location \"R:\\\\~Unfiled\\\\GROVE \\(health app working title\\)\\\\Grove Clude Flutter Code\"; flutter analyze)",
+      "PowerShell($env:Path += ';C:\\\\dev\\\\flutter\\\\bin'; Set-Location \"R:\\\\~Unfiled\\\\GROVE \\(health app working title\\)\\\\Grove Clude Flutter Code\"; flutter run -d chrome)"
+    ]
+  }
+}
